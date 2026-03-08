@@ -11,6 +11,7 @@ body{
   height: 100%;
   left: 12.5%;
   top: 0px;
+  overflow: auto;
 }
 
 #linksDiv {
