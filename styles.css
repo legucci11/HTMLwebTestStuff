@@ -1,0 +1,53 @@
+body{
+  height: 100%;
+  margin: 0;
+  background-color: white;
+}
+
+#middle {
+  position: absolute;
+  background-color: #a0ffff;
+  width: 75%;
+  height: 850px;
+  left: 12.5%;
+  top: 0px;
+}
+
+#linksDiv {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.link {
+  text-decoration: none;
+  font-size: 20px;
+  margin: 20px;
+}
+
+.link:hover {
+  color: yellow;
+}
+
+#title {
+  color: black;
+  font-family:  "Comic Sans MS", cursive, sans-serif;
+  font-size: 50px;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.text {
+  font-family:  "Comic Sans MS", cursive, sans-serif;
+  font-size: 20px;
+  width: 200px;
+  position: absolute;
+  top: 175px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+#image{
+  width: 150px;
+  
+}
